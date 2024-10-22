@@ -8,11 +8,11 @@ The files in this repo are:
 
 - Reds_Coaching_Staff_Report.pdf: This is my write-up intended for the coaching staff.
 
-- Reds_Technical_Report.pdf: This is my write-up intended for the Director of Analytics
+- Reds_Technical_Report.pdf: This is my write-up intended for the Director of Analytics.
 
-- filled_predictions.csv: This file contains my predicted batter pitch mixes for 2024
+- filled_predictions.csv: This file contains my predicted batter pitch mixes for 2024.
 
-- modeling.R: This file contains the code written to build the batter pitch mix prediciton model
+- modeling.R: This file contains the code written to build the batter pitch mix prediciton model.
 
 - context_visualizations.R: This file contains the code written to generate the visualizations used in the coaching staff report.
 
