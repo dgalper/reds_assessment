@@ -8,7 +8,7 @@ The files in this repo are:
 
 - Reds_Coaching_Staff_Report.pdf: This is my write-up intended for the coaching staff.
 
-- Reds_Technical_Report.pdf: This is my write-up intendeed for the Director of Analytics
+- Reds_Technical_Report.pdf: This is my write-up intended for the Director of Analytics
 
 - filled_predictions.csv: This file contains my predicted batter pitch mixes for 2024
 
